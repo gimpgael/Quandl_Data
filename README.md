@@ -1,2 +1,2 @@
 # Quandl_Data
-Project example on databases
+(Python) Project example on databases
